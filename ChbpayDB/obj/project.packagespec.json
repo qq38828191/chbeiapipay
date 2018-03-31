@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\chbpay2018-3-30 1405\\ChbpayDB\\ChbpayDB.csproj",
+    "projectName": "ChbpayDB",
+    "projectPath": "C:\\Users\\Administrator\\Desktop\\chbpay2018-3-30 1405\\ChbpayDB\\ChbpayDB.csproj",
+    "outputPath": "C:\\Users\\Administrator\\Desktop\\chbpay2018-3-30 1405\\ChbpayDB\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[6.10.6, )"
+        },
+        "MySql.Data.Entity": {
+          "target": "Package",
+          "version": "[6.10.6, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.1, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.2, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

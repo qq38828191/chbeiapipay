@@ -1,0 +1,36 @@
+G:\payment\chbpay\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.deps.json
+G:\payment\chbpay\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.dll
+G:\payment\chbpay\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.pdb
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csproj.CoreCompileInputs.cache
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfoInputs.cache
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfo.cs
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.dll
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.pdb
+G:\payment\chbpay\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.deps.json
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.dll
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.pdb
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.dll
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.pdb
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.deps.json
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.dll
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.pdb
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.dll
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.pdb
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csprojResolveAssemblyReference.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.deps.json
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.dll
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\bin\Debug\netstandard2.0\ChbpayDB.pdb
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csprojResolveAssemblyReference.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.csproj.CoreCompileInputs.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfoInputs.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.AssemblyInfo.cs
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.dll
+G:\payment\chbpay2018-3-30 1405\ChbpayDB\obj\Debug\netstandard2.0\ChbpayDB.pdb

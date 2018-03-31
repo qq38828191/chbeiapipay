@@ -1,0 +1,35 @@
+G:\payment\chbpay\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.deps.json
+G:\payment\chbpay\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.dll
+G:\payment\chbpay\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.pdb
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csprojResolveAssemblyReference.cache
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csproj.CoreCompileInputs.cache
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfoInputs.cache
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfo.cs
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.dll
+G:\payment\chbpay\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.pdb
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.deps.json
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.dll
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.pdb
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.dll
+C:\Users\Administrator\Desktop\chbpay2018.3.26\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.pdb
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.deps.json
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.dll
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.pdb
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.dll
+C:\Users\Administrator\Desktop\chbpay2018\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.pdb
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.deps.json
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.dll
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\bin\Debug\netstandard2.0\ChbpayTools.pdb
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csprojResolveAssemblyReference.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.csproj.CoreCompileInputs.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfoInputs.cache
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.AssemblyInfo.cs
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.dll
+G:\payment\chbpay2018-3-30 1405\ChbpayTools\obj\Debug\netstandard2.0\ChbpayTools.pdb
